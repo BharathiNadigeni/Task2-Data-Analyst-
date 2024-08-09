@@ -11,8 +11,7 @@ Welcome to the E-commerce Product Recommendation System repository! This project
 - [Project Structure](#project-structure)
 - [Recommendation Approaches](#recommendation-approaches)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
